@@ -1,0 +1,12 @@
+linear,0.75,1,Forwards
+linear,0,0.5,Stop
+rotate,0.5,1,ccw
+linear,0,0.5,Stop
+linear,0.75,0.5,Backwards
+turn,0.75,0.5,Right
+linear,0,0.5,Stop
+linear,0.75,1,Backwards
+turn,0.75,0.5,Left
+linear,0,0.5,Stop
+linear,0.75,0.5,Forwards
+rotate,0.75,1,ccw
